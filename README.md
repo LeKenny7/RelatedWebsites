@@ -1,1 +1,1 @@
-# https://lekenny7.github.io/RelatedWebsites/Index.html
+# https://lekenny7.github.io/RelatedWebsites/index.html
