@@ -3,8 +3,12 @@
 }
 
 .profile_img{
-    width: 160px;
+    width: 175px;
     display:inline-block;
+}
+
+.profile_img:hover {
+    opacity: 0.5;
 }
 
 .gallery_img {
